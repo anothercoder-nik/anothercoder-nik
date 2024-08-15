@@ -3,6 +3,19 @@
 <h1 align="center">Hi 👋, I'm Nikunj Agarwal</h1>
 <h3 align="center">👋 A passionate Frontend Developer based in India with a strong focus on React and the MERN stack. My journey in web development has been a thrilling ride, and I'm always eager to learn and adapt to new technologies. 🚀 Currently, I'm diving deep into the world of AI and exploring how it can transform the way we build and interact with applications. If it's new and innovative, count me in! 🎨 When I'm not coding, you'll often find me working on intricate designs as a key Photoshop editor. My keen eye for detail helps me create visually stunning and user-friendly interfaces. 💪 I'm a firm believer in the power of hard work and dedication. Whether it's contributing to open source projects or participating in GSSoC '24, I'm always looking for ways to collaborate and give back to the community. 🔧 As a Postman API user, I leverage the tool to streamline and enhance my API testing workflows, ensuring robust and reliable integrations. Let's connect and build something amazing together! Feel free to check out my projects and contributions.</h3>
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anothercoder-nik&label=Profile%20views&color=0e75b6&style=flat" alt="anothercoder-nik" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thisisnik009" target="blank"><img src="https://img.shields.io/twitter/follow/thisisnik009?logo=twitter&style=for-the-badge" alt="thisisnik009" /></a> </p>
