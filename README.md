@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Nikunj Agarwal</h1>
 <h3 align="center">👋 A passionate Frontend Developer based in India with a strong focus on React and the MERN stack. My journey in web development has been a thrilling ride, and I'm always eager to learn and adapt to new technologies. 🚀 Currently, I'm diving deep into the world of AI and exploring how it can transform the way we build and interact with applications. If it's new and innovative, count me in! 🎨 When I'm not coding, you'll often find me working on intricate designs as a key Photoshop editor. My keen eye for detail helps me create visually stunning and user-friendly interfaces. 💪 I'm a firm believer in the power of hard work and dedication. Whether it's contributing to open source projects or participating in GSSoC '24, I'm always looking for ways to collaborate and give back to the community. 🔧 As a Postman API user, I leverage the tool to streamline and enhance my API testing workflows, ensuring robust and reliable integrations. Let's connect and build something amazing together! Feel free to check out my projects and contributions.</h3>
